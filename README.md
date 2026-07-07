@@ -1,5 +1,5 @@
 # DuinoMiner
-This is a PCB made by me that is used for mining DNO coin, a type of cryptocurrency with not too much value. You can mine it with normal small consumer-available chips as well...
+This is a PCB made by me that is used for mining DuinoCoin, a type of cryptocurrency with not too much value. You can mine it with normal small consumer-available chips as well...
 
 ## Hardware
 ### Schematic
